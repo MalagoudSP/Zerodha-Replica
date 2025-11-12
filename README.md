@@ -1,33 +1,32 @@
- #Zerodha-Clone
+ # Zerodha-Clone
 ---
 
-   ![landing page](image-1.png)
+    ![landing page](image-1.png)
 ---
- ##Overview
+ ## Overview
 ---
-
-   The Zerodha Clone is a frontend project that replicates the user interface and experience of the popular Indian stockbroking platform, Zerodha. The project is built using React.js, with a focus on creating a      clean, responsive, and intuitive design that mirrors Zerodha's platform.
----
-
- ##Features
+    The Zerodha Clone is a frontend project that replicates the user interface and experience of the popular Indian stockbroking platform, Zerodha. The project is built using React.js, with a focus on creating a      clean, responsive, and intuitive design that mirrors Zerodha's platform.
 ---
 
-  • Responsive design with Bootstrap
-
-  • Clean and intuitive UI
-
-  • Fast, lightweight frontend setup
+ ## Features
 ---
 
-##Tech Stack
+    • Responsive design with Bootstrap
+
+    • Clean and intuitive UI
+
+    • Fast, lightweight frontend setup
 ---
- • HTML5
 
- • CSS3
+## Tech Stack
+---
+    • HTML5
 
- • Bootstrap 5
+    • CSS3
 
- • JavaScript 
+    • Bootstrap 5
+
+    • JavaScript 
 
 
 
